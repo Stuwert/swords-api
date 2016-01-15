@@ -1,0 +1,22 @@
+{
+  "name": "swords-api",
+  "version": "1.0.0",
+  "description": "Developing a personal API about swords",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "swords-api"
+  },
+  "author": "Stuart Urback",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "knex": "^0.9.0",
+    "monk": "^1.0.1",
+    "pg": "^4.4.3"
+  }
+}
